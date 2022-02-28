@@ -1,4 +1,4 @@
-1. Predicting Home Prices using Linear Regression Single Variable.
+## 1. Predicting Home Prices using Linear Regression Single Variable.
 
 | Area | Price  |
 | ---- | ------ |
@@ -8,7 +8,7 @@
 | 3600 | 680000 |
 | 4000 | 725000 |
 
-**Predict prices with area 3300 and 5000 square feet**
+**Task 1: Predict prices with area 3300 square feet.**
 
 ### Approach
 
@@ -18,7 +18,7 @@
 
 > The line which gives the least summation of error(RMS) distance of all points from the line.
     
-### working
+### Working
 
-> slope(y) = mx + b
+> slope(y) = mx + b\
 > price = m * area + b
