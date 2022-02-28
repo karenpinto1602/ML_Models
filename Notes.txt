@@ -1,0 +1,4 @@
+Machine learning is about computers being able to think and act with less human intervention; deep learning is about computers learning to think using structures modeled on the human brain.
+
+Machine learning is a subset of AI.
+Deep learning is a subfield of ML.
