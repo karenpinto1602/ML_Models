@@ -6,4 +6,10 @@
 
 ### Mean Square Error
 
-> `Σ`
+> (../images/Gradient Descent/MSE.png)
+\
+> Ypred = mXi + b
+
+\
+
+**Gradient Descent Algorithm here helps in finding the best fit line or slope for the given training daat set in less number of iterations.**
