@@ -6,7 +6,7 @@
 
 ### Mean Square Error
 
-> ![MSE](/images/MSE.png)
+> [![MSE](/images/MSE.png)]
 \
 > Ypred = mXi + b
 
