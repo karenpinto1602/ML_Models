@@ -17,7 +17,7 @@
 
 ### Equation
 
-> price = m1*area + m2*bedrooms + m3*age + b\
+> price = m1\*area + m2\*bedrooms + m3\*age + b\
 > Dependent Variable - price\
 > Features or Independant Variables = area, bedrooms and age\
 > Coefficients - m1, m2 and m3\
