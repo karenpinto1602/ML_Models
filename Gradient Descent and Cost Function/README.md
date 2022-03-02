@@ -6,10 +6,14 @@
 
 ### Mean Square Error
 
-> [![MSE](/images/Gradient/MSE.png)]
+> ![MSE](/images/Gradient/MSE.png)
 \
-> Ypred = mXi + b
-
 \
-
-**Gradient Descent Algorithm here helps in finding the best fit line or slope for the given training daat set in less number of iterations.**
+> **Ypred = mXi + b**
+\
+> The derivative of m and b give
+\
+> ![MSE](/images/Gradient/DerivativeOf_m_and_b.png)
+\
+\
+**Gradient Descent Algorithm here thus helps in finding the best fit line or slope for the given training daat set in lesser number of iterations.**
