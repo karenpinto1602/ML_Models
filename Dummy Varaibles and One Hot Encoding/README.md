@@ -18,8 +18,12 @@
 * **Nominal:** ['Green','Red','Blue'], ['Male','Female']
 * **Ordinal:** ['High','Medium','Low'], ['Graduate','Masters','PHD']
 
-\
 
 ### One Hot Encoding - For Nominal Categories
 > Taking 'prices.csv' as example, for the column 'town', it will create 3 more columns viz. *monroe township*, *west windsor* and *robbinsville* and fill it with values '1' or '0'\
 > These extra variables that are created are also called *Dummy Variables*
+
+### Two methods of doing this
+> Either by using OneHotEncoder from sklearn or by concatenating the dummy variable columns
+
+### Excercise - Refer Folder
