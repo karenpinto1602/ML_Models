@@ -21,3 +21,7 @@ So, basically the Sigmoid function converts input into a range 0 to 1.
 ![LinToLog](/images/Classification/linearToLogistic.png)
 
 ### Refer Excercise for more functionalities to analyze independent variables
+
+### Confusion Matrix
+> Refer Multiclass folder.\
+> Visualized where the accuracy went wrong
