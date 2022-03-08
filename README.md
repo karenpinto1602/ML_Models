@@ -1,7 +1,7 @@
-### Just some Machine Learning stuff
+### Just some Machine Learning stuff using sklearn
 
 
 
 
-###### To get a list of all parameters of a model
+###### To get a list of all the parameters to a model
 > ```model.get_params(deep=True)```
