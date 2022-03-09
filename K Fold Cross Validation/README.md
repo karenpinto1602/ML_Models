@@ -20,10 +20,18 @@ At the end, the average of all the scores predicted at each iteration is taken a
 ### Imports
 > ```sklearn.model_selection.KFold```
 
+**OR**
+
+> ```klearn.model_selection.StratifiedKFold```
+
+**Along with parameters**
+
 > ```kf = KFold(n_splits=3) # specifies 3 folds```
 
 These two methods can then be used with for loops to display the scores or use the below library that is a combined function of the above
 
 > ```sklearn.model_selection.cross_val_score``` this will return an array of scores
+
+> ```cross_val_score(model,data_input,data_output,cv=3)``` this produces 3 folds, thereby giving an array with 3 accuracy scores
 
 ### Refer Excercise 
