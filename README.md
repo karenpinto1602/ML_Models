@@ -37,4 +37,8 @@
 > ```from sklearn.datasets import load_iris``` <br/>
 > ```dataset = load_iris()```
 
+###### Tuning the hyperparameters
+> **Use GridSearch** <br/>
+> ```sklearn.model_selection.GridSearchCV```
+> https://github.com/karenpinto1602/ML_Models/blob/main/Hyperparameter%20Tuning/Excercise/digitsHyperParameter.ipynb 
 
