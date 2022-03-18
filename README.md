@@ -24,10 +24,13 @@
 > ```df.Age = scaler.transform(df[['Age']])```
 
 ###### To check if any of the columns have null values
-> ```data.columns[data.isna().any()]```
+> ```dataset.columns[dataset.isna().any()]```
+
+###### To check the count of all columns having.not having null values
+> ```dataset.isna().sum()```
 
 ###### To check the total number of NANs in a column
-> ```data['Column_name'].isna().sum()```
+> ```dataset['Column_name'].isna().sum()```
 
 ###### Using pandas to read csv
 > ```import pandas as pd``` <br/>
@@ -41,4 +44,7 @@
 > **Use GridSearch** <br/>
 > ```sklearn.model_selection.GridSearchCV```
 > https://github.com/karenpinto1602/ML_Models/blob/main/Hyperparameter%20Tuning/Excercise/digitsHyperParameter.ipynb 
+
+###### Dealing with Overfitting using L1 and L2 Regularization
+> https://github.com/karenpinto1602/ML_Models/blob/main/Regularization 
 
